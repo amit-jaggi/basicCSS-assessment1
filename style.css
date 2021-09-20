@@ -1,0 +1,58 @@
+h1{
+    color: red;
+}
+
+
+.head-styling{
+    color: red;
+    font-style: italic;
+    font-size: x-large; 
+    font-weight: 800;
+}
+
+
+.line-spacing{
+    line-height: 42px;
+    color: maroon;
+}
+
+
+.text-weight{
+    font-weight: 800;
+}
+
+
+.strike-off{
+    text-decoration: line-through;
+}
+
+
+.high-lighting{
+    background-color: yellow;
+}
+
+
+.underline{
+    text-decoration: underline;
+    font-style: italic;
+}
+
+
+.character-spacing{
+    letter-spacing: 6px;
+    color: maroon;
+}
+
+
+p{
+    font-weight: 500;
+    color: #6b4e25;
+}
+
+
+.prepbyte-link{
+    font-style: italic;
+    color: red;
+    background-color: yellow;
+    text-decoration: none;
+}
